@@ -55,7 +55,7 @@ features = hopf_delays_feature_extraction(Zsave, dt_save=0.001, MD=10, expK=1.0,
 ## Contact
 
 For questions and support, please contact:
-- Borjan Milinkovic: [your-email@example.com]
+- Borjan Milinkovic: borjan.milinkovic@gmail.com
 
 ## License
 
