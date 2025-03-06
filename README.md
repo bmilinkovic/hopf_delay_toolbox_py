@@ -25,7 +25,7 @@ pip install hopf_delay_toolbox_py
 Or install from source:
 
 ```bash
-git clone https://github.com/borjan/hopf_delay_toolbox_py.git
+git clone https://github.com/bmilinkovic/hopf_delay_toolbox_py.git
 cd hopf_delay_toolbox_py
 pip install -e .
 ```
